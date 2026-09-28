@@ -1,0 +1,7 @@
+title: "Expense Tracker"
+eyebrow: SoloHost App
+description: "tạo cho tôi app  : Expense Tracker ứng dụng ghi nhanh các khoản chi tiêu, phân loại chi phí và hiển thị thống kê theo ngày, tháng và năm."
+footer_hint: Ready to run on Pi Desktop SoloHost.
+output_file: .env
+after_save: Saved. Start the app from SoloHost.
+fields: []
